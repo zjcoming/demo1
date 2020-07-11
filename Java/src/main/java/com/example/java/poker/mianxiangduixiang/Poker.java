@@ -27,7 +27,9 @@ public class Poker {
     private void test(){
         //测试添加branch
     }
-
+    private void  test2(){
+        //分支下的小功能
+    }
 
     //重写toString（）
 
