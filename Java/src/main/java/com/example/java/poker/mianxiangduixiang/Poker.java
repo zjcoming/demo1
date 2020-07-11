@@ -24,6 +24,9 @@ public class Poker {
     public void setPic(String pic) {
         this.pic = pic;
     }
+    private void test(){
+        //测试添加branch
+    }
 
 
     //重写toString（）
